@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "VadyaWay Рецепты",
+    "slug": "vadyaway-recipes",
+    "version": "0.1.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "edgeToEdgeEnabled": true
+    }
+  }
+}

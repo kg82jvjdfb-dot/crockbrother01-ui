@@ -1,0 +1,18 @@
+export const recipeThumbnails = {
+  'pastry-stuffed-peppers': require('./assets/thumbnails/pastry-stuffed-peppers-0.jpg'),
+  'airport-sandwich': require('./assets/thumbnails/airport-sandwich-0.jpg'),
+  'pickled-cucumbers': require('./assets/thumbnails/pickled-cucumbers-0.jpg'),
+  'belyashi': require('./assets/thumbnails/belyashi-0.jpg'),
+  'bone': require('./assets/thumbnails/bone-0.jpg'),
+  'bone-meat': require('./assets/thumbnails/bone-meat-0.jpg'),
+  'carbonara': require('./assets/thumbnails/carbonara-0.jpg'),
+  'corn': require('./assets/thumbnails/corn-0.jpg'),
+  'cucumber': require('./assets/thumbnails/cucumber-0.jpg'),
+  'demi': require('./assets/thumbnails/demi-0.jpg'),
+  'eggplant': require('./assets/thumbnails/eggplant-0.jpg'),
+  'fish': require('./assets/thumbnails/fish-0.jpg'),
+  'manti': require('./assets/thumbnails/manti-0.jpg'),
+  'pie': require('./assets/thumbnails/pie-0.jpg'),
+  'ribs': require('./assets/thumbnails/ribs-0.jpg'),
+  'turkey': require('./assets/thumbnails/turkey-0.jpg'),
+};
